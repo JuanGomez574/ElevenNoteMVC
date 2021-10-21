@@ -52,7 +52,7 @@ namespace ElevenNote.Data
 
 
             {
-                HasKey(iu1 => iu1.UserId);
+                HasKey(iul => iul.UserId);
             }
         }
 
